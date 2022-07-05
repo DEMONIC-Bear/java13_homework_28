@@ -125,7 +125,7 @@ public class Dealer {
             if (products.size() > 0) {
                 startGame();
             } else {
-                System.out.println("You have not a products");
+                System.out.println("Robbers took all products.");
             }
 
         }
